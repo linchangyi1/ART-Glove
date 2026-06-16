@@ -1,4 +1,4 @@
 ## <b>ART-Glove</b>
 
-Our open-source timeline is under determined.
+The open-source release timeline has not yet been finalized.
 
