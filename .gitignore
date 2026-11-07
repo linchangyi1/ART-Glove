@@ -1,0 +1,19 @@
+# unverified files
+/software
+/ART-Glove.code-workspace
+/hardware/human_centric/rigid_pcb
+/hardware/human_centric/flexible_pcb
+/hardware/robot_centric
+
+# personal files
+.idea/
+.vscode/
+*.egg-info/
+*__pycache__*
+**/__pycache__/
+
+
+
+
+# Distribute the large STEP assembly as a lossless ZIP; keep the local original.
+/hardware/human_centric/step/ART-Glove-Left-V1-Simplified.step
