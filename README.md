@@ -1,6 +1,6 @@
 # ART-Glove
 
-![ART-Glove mechanical overview: back and palm views](fig/art-glove-overview.png)
+<img src="fig/art-glove-overview.png" alt="ART-Glove mechanical overview: back and palm views" width="80%">
 
 **ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture**
 
