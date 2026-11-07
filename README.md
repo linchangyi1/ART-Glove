@@ -1,10 +1,16 @@
 # ART-Glove
 
-<img src="fig/art-glove-overview.png" alt="ART-Glove mechanical overview: back and palm views" width="80%">
+<p align="center">
+  <img src="fig/art-glove-overview.png" alt="ART-Glove mechanical overview: back and palm views" width="80%">
+</p>
 
-**ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture**
+<p align="center">
+  <strong>ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture</strong>
+</p>
 
-[Project page](https://linchangyi1.github.io/ART-Glove/) | [arXiv paper](https://arxiv.org/abs/2606.16370)
+<p align="center">
+  <a href="https://linchangyi1.github.io/ART-Glove/">Project page</a> | <a href="https://arxiv.org/abs/2606.16370">arXiv paper</a>
+</p>
 
 ## Release plan
 
